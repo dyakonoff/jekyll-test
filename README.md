@@ -2,6 +2,6 @@
 
 ## Images test
 
-![Sci-fi city]({{site.url}}{{site.baseimageurl}}(resources/art-jonathan-powell-gorod.jpg)
+![Sci-fi city]({{site.baseimageurl}}resources/art-jonathan-powell-gorod.jpg)
 
 _**Sci-fi city**_
