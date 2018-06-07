@@ -6,4 +6,5 @@ locale: en-US
 words_per_minute: 200
 repository: dyakonoff/jekyll-test
 # baseurl: "http://dyakonoff.github.io/jekyll-test"
+baseurl: "github.com/dyakonoff/jekyll-test"
 # url: "http://dyakonoff.github.io"
