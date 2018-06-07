@@ -1,7 +1,6 @@
 # A test for different github pages formatting tricks
 
-## Images test
+Main README file
 
-![Sci-fi city]({{site.baseimageurl}})(resources/art-jonathan-powell-gorod.jpg)
+Test article is [here](docs/readme)
 
-_**Sci-fi city**_
