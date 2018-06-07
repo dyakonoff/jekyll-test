@@ -1,7 +1,7 @@
-# A test for differen github pages formatting tricks
+# A test for different github pages formatting tricks
 
 ## Images test
 
-![Sci-fi city](resources/art-jonathan-powell-gorod.jpg)
+![Sci-fi city]({{site.url}}{{site.baseurl}}(resources/art-jonathan-powell-gorod.jpg)
 
 _**Sci-fi city**_
