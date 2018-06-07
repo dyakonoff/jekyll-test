@@ -2,5 +2,5 @@
 
 Main README file
 
-Test article is [here](docs/readme)
+Test article is [here](docs/README.md)
 

@@ -5,7 +5,3 @@ show_downloads: true
 locale: en-US
 words_per_minute: 200
 repository: dyakonoff/jekyll-test
-# baseurl: "http://dyakonoff.github.io/jekyll-test"
-# baseurl: "github.com/dyakonoff/jekyll-test"
-# baseimageurl: "github.com/dyakonoff/jekyll-test/blob/master/"
-# url: "http://dyakonoff.github.io"
