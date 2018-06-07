@@ -12,6 +12,8 @@ _**Sci-fi city - 2**_
 
 ## Links to other md files
 
+[foo](FOO.md)
+
 ## Links to sources
 
 [Hello world - python](../src/test.py)
