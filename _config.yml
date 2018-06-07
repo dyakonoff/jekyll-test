@@ -2,6 +2,4 @@ title: Testing Github pages...
 description: Random tricks with github pages
 theme: jekyll-theme-cayman
 show_downloads: true
-locale: en-US
-words_per_minute: 200
-repository: dyakonoff/jekyll-test
+
